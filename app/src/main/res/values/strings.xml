@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tapishke</string>
+    <string name="title_activity_main_page">MainActivity</string>
+    <string name="title_home">Главное</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_order">Бронировать</string>
+    <string name="title_info">Инфо</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
